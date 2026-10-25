@@ -1,0 +1,5 @@
+haystack-ai==2.31.0
+gradio==6.30.0
+supabase==2.33.0
+python-dotenv==1.2.4
+requests==2.34.2
